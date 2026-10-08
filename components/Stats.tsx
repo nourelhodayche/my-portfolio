@@ -38,10 +38,10 @@ function Counter({ target, suffix = "" }: { target: number; suffix?: string }) {
 }
 
 const stats = [
-  { value: 10, suffix: "+", label: "[Projets réalisés]" },
-  { value: 3, suffix: "", label: "[Années d'expérience]" },
-  { value: 15, suffix: "+", label: "[Technologies maîtrisées]" },
-  { value: 100, suffix: "%", label: "[Motivation]" },
+  { value: 5, suffix: "+", label: "Projets réalisés" },
+  { value: 2, suffix: "", label: "Stages effectués" },
+  { value: 15, suffix: "+", label: "Technologies maîtrisées" },
+  { value: 3, suffix: "", label: "Langues parlées" },
 ];
 
 export default function Stats() {

@@ -7,7 +7,7 @@ export default function About() {
       <Reveal className="mx-auto max-w-6xl">
         <h2 className="text-3xl font-bold">À propos de moi</h2>
         <p className="mt-2 text-[#9aa5d1]">
-          Qui tu es, ton parcours, ce que tu cherches
+  Mon parcours, mes expériences et ce que je recherche aujourd&apos;hui
         </p>
 
         <div className="mt-10 flex flex-col gap-8 sm:flex-row">
@@ -27,15 +27,19 @@ export default function About() {
   obtenue à la FSTG Marrakech.
 </p>
 <p>
+  <p>
   Spécialisée dans le développement full stack, j&apos;aime concevoir des
-  applications complètes — du backend sécurisé avec Spring Boot ou Laravel
-  jusqu&apos;à des interfaces modernes en React ou Next.js. J&apos;ai
-  notamment développé TechBuddy, une plateforme d&apos;apprentissage
-  propulsée par l&apos;IA, lors d&apos;un hackathon.
+  applications complètes — du backend sécurisé avec Spring Boot, Laravel ou
+  Node.js jusqu&apos;à des interfaces modernes en React ou Next.js. Lors de
+  mon stage PFA, j&apos;ai notamment contribué à Coneke, une application de
+  gestion RH & Paie destinée aux entreprises, avec une interface web pour
+  les administrateurs et une application mobile Flutter pour les employés.
+</p>
 </p>
 <p>
-  Je suis actuellement à la recherche d&apos;un stage PFE, basée à Agadir,
-  ouverte à la mobilité.
+  Je suis actuellement à la recherche d&apos;un stage PFE pour mettre en
+  pratique mes compétences en environnement professionnel. Basée à Agadir,
+  je suis ouverte à la mobilité.
 </p>
           </div>
         </div>
